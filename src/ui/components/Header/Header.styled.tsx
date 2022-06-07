@@ -8,6 +8,5 @@ export const HeaderStyled = styled("header")`
 `
 export const Logo = styled('img')`
   max-width: 100%;
-  width: 300px;
   `
 

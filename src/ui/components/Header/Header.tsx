@@ -1,4 +1,3 @@
-import { TextField } from '@mui/material';
 import {
   HeaderStyled,
   Logo
@@ -9,7 +8,7 @@ export default function Header() {
   return (
     <>
       <HeaderStyled>
-          <Logo src={'/logo.png'}/>
+        <Logo src={"/logo.png"} />
       </HeaderStyled>
     </>
   );
